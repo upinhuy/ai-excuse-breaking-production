@@ -1,10 +1,12 @@
 # The One-Line AI Excuse for Breaking Production
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-u--hamsyh--the--one--line--ai--excuse--for--breaking--e53dac66-blue)](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66)
-[![prize $2](https://img.shields.io/badge/prize-%242-brightgreen)](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66)
-[![referral](https://img.shields.io/badge/referral-hv9zk8y5-orange)](https://make.fun/r/hv9zk8y5)
+[![make.fun](https://make.fun/badge/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66.svg)](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66)
+[![Rank](https://make.fun/badge/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66/upinhuy/ai-excuse-breaking-production/rank.svg)](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66)
+[![Reward](https://make.fun/badge/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66/upinhuy/ai-excuse-breaking-production/reward.svg)](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66)
 
 Entry for the [make.fun bounty **The One-Line AI Excuse for Breaking Production**](https://make.fun/bounty/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66) (`u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66`, $2).
+
+Referral: https://make.fun/r/hv9zk8y5
 
 ## The task
 
